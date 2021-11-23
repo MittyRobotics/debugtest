@@ -1,0 +1,17 @@
+# Java
+
+# Build
+build
+out
+bin
+
+# Gradle
+.gradle
+
+# IntelliJ
+.idea
+
+# MacOSX
+.DS_Store
+tko2020.iml
+imgui.ini
